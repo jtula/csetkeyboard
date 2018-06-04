@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>assets/sounds/shortClick.wav</file>
+        <file>qml/calibration.qml</file>
+        <file>qml/Constants.qml</file>
+        <file>qml/CalibPoints.qml</file>
+        <file>qml/Object.qml</file>
+        <file>qml/qmldir</file>
+        <file>qml/keyboard.qml</file>
+        <file>qml/FpsDisplay.qml</file>
+        <file>todo.md</file>
+        <file>qml/Engine.qml</file>
+        <file>qml/StateMachine.qml</file>
+        <file>qml/KeyboardManager.qml</file>
+        <file>qml/Key.qml</file>
+        <file>assets/js/utils.js</file>
+        <file>assets/fonts/fontawesome-webfont.ttf</file>
+        <file>qml/KeyboardRow.qml</file>
+        <file>qml/WordList.qml</file>
+        <file>assets/sounds/buttonclick.wav</file>
+        <file>qml/dialog.qml</file>
+        <file>config/3.json</file>
+        <file>config/2.json</file>
+        <file>config/1.json</file>
+        <file>config/experiments.json</file>
+    </qresource>
+</RCC>

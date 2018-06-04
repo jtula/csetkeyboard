@@ -1,0 +1,23 @@
+{
+	"width": 1400,
+	"height": 1080,
+	"spacing": 0.5,
+  "rowspacing": 0.3,
+	"bridgeHeight": 1.5,
+  "bridgeMargin" : 0.2,
+  "contextTolerance": 4,
+  "distanceFactor": 0.5,
+	"keySize" : 0,
+	"maxKeySize": 2.5,
+	"textSize": 0.3,
+	"wmax": 3,
+	"wctx": 3,
+  "nLinesCtx": 2,
+	"nColumnsCtx": 15,
+  "elementsPerLineCtx": [15, 14],
+  "elementsOffsetCtx": [2.0, 2.0],
+  "linesAlignTopCtx": [4, 4],
+  "linesAlignBotCtx": [4, 4],
+  "labelLower": [ "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o",
+                       "p", "q","r", "s", "t", "u", "_", "v", "w", "x", "y", "z", ".", "<" ]
+}

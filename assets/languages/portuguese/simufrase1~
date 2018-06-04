@@ -1,0 +1,113 @@
+Simulador
+===> meu
+   > 
+de
+a
+e
+===> meu
+   > m
+mais
+mas
+muito
+===> meu
+   > me
+mesmo
+menos
+melhor
+===> meu
+   > meu
+meus
+===> relogio
+   > 
+marido
+coracao
+caro
+===> relogio
+   > r
+rio
+real
+relacao
+===> relogio
+   > re
+real
+relacao
+regiao
+===> relogio
+   > rel
+relacao
+relatorio
+relacoes
+===> relogio
+   > relo
+relogios
+relogio
+===> caiu
+   > 
+jovem
+lento
+de
+===> caiu
+   > c
+com
+como
+cento
+===> caiu
+   > ca
+casa
+cada
+caso
+===> caiu
+   > cai
+caiu
+===> na
+   > 
+em
+de
+a
+===> na
+   > n
+no
+nao
+na
+===> agua
+   > 
+regiao
+verdade
+sua
+===> agua
+   > a
+area
+argentina
+avenida
+===> agua
+   > ag
+agua
+===> 
+   > 
+ha
+algumas
+sal
+Computing acceleration rate!!!
+
+AH MAEEEEEE ============================
+Acceleration Rate
+KSR = (kn - ki) / kn * 100
+where: 
+       ki = actual keystrokes
+       ks = keystrokes required to select suggestion
+       kn = keystrokes required with no prediction enabled
+
+ki : 18
+ks : 1
+kn : 25
+
+KSR: 28
+
+meu relogio caiu na agua
+ccccccccwwwwcccwwcwwccww
+
+ki = 14
+kn = 24
+
+accrate = (25-14)/25 = 
+

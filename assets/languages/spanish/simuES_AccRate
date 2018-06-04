@@ -1,0 +1,925 @@
+=========================================================================
+Calculador do Acceleration Rate para o experimento de aceleracao AugFIx
+=========================================================================
+Analisando arquivo de frases: frasesES.txt
+Numero de frases no arquivo: 300
+--------------------------
+Frases analisadas: 
+--------------------------
+mi reloj cayo al agua.
+cccccccwwcccwwcwwcccww
+--------------------------
+un frente frio llega del sur.
+cwwcccwwwwcccwwcccccccwwwcccc
+--------------------------
+ni tanto al cielo ni tanto al mar.
+ccccccwwwcwwccccwwccccccwwwcwwccww
+--------------------------
+matematica es muy dificil.
+cccccwwwwwwcccccwwccccwwww
+--------------------------
+me hice rico de repente.
+cccccccccccwwwwwcccccwww
+--------------------------
+hora de partir.
+cccccwwwccccccc
+--------------------------
+los elefantes temen a los ratones.
+cwwwccccwwwwwwccccwwccwwwwccccwwww
+--------------------------
+mi pintor favorito.
+ccccccwwwwccccccwww
+--------------------------
+tres dos un ya.
+ccwwwccwwcwwcww
+--------------------------
+mi materia favorita era psicologia.
+cccccwwwwwwccccccwwwccwwccccwwwwwww
+--------------------------
+la vida imita el arte.
+wwwcccwwcccwwwwwwccccc
+--------------------------
+cuando es su cumpleanos.
+ccwwwwwccccccccccccwwwww
+--------------------------
+igual a todos los otros.
+ccwwwwccccwwwwwwwwccwwww
+--------------------------
+como describir el amor.
+cwwwwcccccccwwwwwwcccww
+--------------------------
+usted esta mas joven cada dia.
+cccwwwcwwwwccwwcccwwwccwwwcwww
+--------------------------
+aceptamos todas las tarjetas.
+cccccccwwwccwwwwwwwwccccwwwww
+--------------------------
+que pregunta mas dificil.
+cwwwccccwwwwwcwwwccwwwwww
+--------------------------
+use su poder de seduccion.
+cccccwwccwwwwwwwcccwwwwwww
+--------------------------
+concuerdo con usted.
+ccccccwwwwcwwwcccwww
+--------------------------
+usted siente algun dolor.
+cccwwwccccwwwcccccccccwww
+--------------------------
+intente una vez mas.
+ccccccwwcwwwwwwwcwww
+--------------------------
+que la fuerza este contigo.
+cwwwwwwccwwwwwccwwwccccccww
+--------------------------
+una oferta dificil de rechazar.
+cwwwcccwwwwccccwwwwwwwccccwwwww
+--------------------------
+tu estas hablando conmigo.
+ccccccccccccccwwwwcccccwww
+--------------------------
+cuantos anos usted tiene.
+ccccccwwccwwwcccwwwccwwww
+--------------------------
+apenas trabajo nada de diversion.
+ccccwwwccccwwwwcccwwwwwcccccccwww
+--------------------------
+mas un hecho sin pruebas.
+cwwwccccwwwwwccwwcccwwwww
+--------------------------
+habia una piedra en el camino.
+cccccccwwwccccwwwcwwwwwcccwwww
+--------------------------
+todos los hombres son iguales.
+ccwwwwwwwwcccwwwwwccwwcccccwww
+--------------------------
+todas las mujeres son diferentes.
+ccwwwwwwwwcccwwwwwccwwccwwwwwwwww
+--------------------------
+es un ejemplo para la sociedad.
+ccccwwccccwwwwcwwwwwwwccwwwwwww
+--------------------------
+usted es muy inteligente.
+cccwwwcccccwwcccccwwwwwww
+--------------------------
+esta es su casa.
+cwwwwccccccccccc
+--------------------------
+vamos a relajarnos un poco.
+cccwwwcccccccwwwwwwcwwcccww
+--------------------------
+muchos quieren ser famosos.
+cccwwwwcccccwwwccwwccccwwww
+--------------------------
+lo mejor esta por llegar.
+ccccccwwwcwwwwccwwccwwwww
+--------------------------
+el cesped del vecino esta siempre mas verde.
+wwwccccwwwcwwwcccwwwwcwwwwcccwwwwwcwwwccccww
+--------------------------
+tenga buen viaje.
+ccccwwccwwwcccwww
+--------------------------
+estamos en epoca de fresas.
+cccccwwwcccccwwwwwwwcccccww
+--------------------------
+lo mas caro no siempre es mejor.
+ccccwwwccccccwwccwwwwwwwwwcccwww
+--------------------------
+ven a ver mi juguete nuevo.
+ccccccccccccccccwwwwwccwwww
+--------------------------
+estoy yendo para mi clase de guitarra.
+ccccwwccwwwwcwwwwcccccwwwwwwwcccwwwwww
+--------------------------
+el peligro esta aqui al lado.
+wwwcccwwwwwcwwwwccccccwwcccww
+--------------------------
+regresaremos pronto.
+ccccwwwwwwwwwcccccww
+--------------------------
+estoy de traje y corbata.
+ccccwwcwwccccwwccccccwwww
+--------------------------
+si bebe no conduzca.
+cccccccccwwccccccwww
+--------------------------
+todos abrazandose juntos.
+ccwwwwccccwwwwwwwwcccccww
+--------------------------
+las joyas de la corona.
+cwwwcccwwwwwwwwwccccwww
+--------------------------
+la calle esta con neblina.
+wwwcccwwwcwwwwccwwcccwwwww
+--------------------------
+soy alergico a la picadura de abeja.
+ccccccccwwwwwccwwwcccwwwwwwwwwcccwww
+--------------------------
+el es la mitad del equipo.
+wwwcccwwwccwwwwcwwwccwwwww
+--------------------------
+hoy la bolsa cerro en alta.
+cccccwwcwwwwwccccwwcwwccccc
+--------------------------
+me gusta mucho el chocolate.
+cccccwwwwcccwwwcwwcccwwwwwww
+--------------------------
+solo cumplo ordenes.
+ccwwwccwwwwwcccwwwww
+--------------------------
+fuimos de compras.
+cccwwwwwwwcccccwww
+--------------------------
+el plazo acaba hoy.
+wwwccwwwwccccwwcccc
+--------------------------
+lo creo cuando lo vea.
+ccccccccccwwwwwccccccc
+--------------------------
+medio siglo perdido.
+ccccccccccwwccccwwww
+--------------------------
+la tienda cierra a las diez.
+wwwcccccwwcccccwwccwwwwcccww
+--------------------------
+helado de chocolate.
+cccwwwwwwwcccwwwwwww
+--------------------------
+cuestiones comunes a todos.
+ccccwwwwwwwccccccwwwwccwwww
+--------------------------
+mi navegador favorito.
+cccccccwwwwwwccccccwww
+--------------------------
+la copiadora esta sin papel.
+wwwccccwwwwwwcwwwwccwwcccwww
+--------------------------
+el mejor futbol del mundo esta aqui.
+wwwcccwwwccccwwwcwwwccwwwwcwwwwccccc
+--------------------------
+usted llego justo a tiempo.
+cccwwwccccwwcccwwwcccccwwww
+--------------------------
+buen fin de semana a todos.
+ccwwwccwwwwwcccwwwwccccwwww
+--------------------------
+mono gordo rompe la rama.
+ccccccccwwwcccwwwwwwccwww
+--------------------------
+estamos felices con su llegada.
+cccccwwwcccwwwwwcwwwcwwccccccww
+--------------------------
+vamos a regar el jardin de la casa.
+cccwwwccccccwwcwwcccwwwwwwwwwwcccww
+--------------------------
+usted tuvo una optima idea.
+cccwwwccwwwcwwwcccccccccwww
+--------------------------
+mi numero de celular cambio.
+ccccwwwwwwcwwccccwwwwcccwwww
+--------------------------
+muchas gracias por la ayuda.
+cccwwwwccccwwwwcwwwwwwccwwww
+--------------------------
+cambios solo con la nota fiscal.
+cccwwwwwccwwwcwwwcwwccccccccwwww
+--------------------------
+use el cinturon de seguridad.
+cccccwwccccwwwwwwwwcccwwwwwww
+--------------------------
+es mucho para mi.
+ccccccwwwcwwwwccc
+--------------------------
+proteja la naturaleza.
+ccccccwwwwwccwwwwwwwww
+--------------------------
+la poblacion mundial esta creciendo.
+wwwcccwwwwwwwccccwwwwcwwwwccccccwwww
+--------------------------
+la biblioteca esta cerrada.
+wwwcccwwwwwwwwcwwwwcccccccc
+--------------------------
+aceptamos dinero y cheque.
+cccccccwwwcccwwwwcccccwwww
+--------------------------
+mantenga una buena alimentacion.
+ccccwwwwwwwwwcwwwwwcccwwwwwwwwww
+--------------------------
+son anos de experiencia.
+ccwwccwwwwwwcwwwwwwwwwww
+--------------------------
+este filme gano mucho dinero.
+ccwwwcccwwwccccccccwwwcccwwww
+--------------------------
+los bancos cierran a las cuatro.
+cwwwcccwwwwcccccwwwccwwwwcccwwww
+--------------------------
+volando por encima de todo.
+ccccwwwwcwwwccccwwwwwwccwww
+--------------------------
+concuerdo con usted.
+ccccccwwwwcwwwcccwww
+--------------------------
+la vida es un mar de rosas.
+wwwcccwwccccwwccccwwwcccwww
+--------------------------
+recicle la basura.
+cccccwwwwwwccccwww
+--------------------------
+mande una tarjeta postal.
+ccccwwcwwwccccwwwwcccccww
+--------------------------
+el verano es mi estacion favorita.
+wwwccccwwwcccccccccccccccccccccwww
+--------------------------
+el perro es el mejor amigo del hombre.
+wwwccccwwcccwwwcwwwwwcccwwwcwwwcccwwww
+--------------------------
+el estacionamiento esta lleno.
+wwwcccccwwwwwwwwwwwcwwwwcccccc
+--------------------------
+garantia de un ano.
+cccwwwwwwwwwcwwwwww
+--------------------------
+el sol nace por el este.
+wwwccccccccccwwwwwwccccc
+--------------------------
+hoy hay mucho viento.
+cccccccccccwwwcccwwww
+--------------------------
+hace mucho tiempo que no llueve.
+ccwwwcccwwwcwwwwwwwwwwcwwcccwwww
+--------------------------
+vamos a almorzar despues del juego.
+cccwwwcccccwwwwwwcccwwwwwwwwwcccwww
+--------------------------
+no hable con extranos.
+cwwccccwwcwwwcccccccww
+--------------------------
+solo ninos acompanados de adultos.
+ccwwwccccwwccccwwwwwwwwwwwcccwwwww
+--------------------------
+hasta luego.
+cwwwwwccwwww
+--------------------------
+hoy es mi dia de suerte.
+ccccccccccccccwwwcccwwww
+--------------------------
+ella usa mucho maquillaje.
+ccwwwcccccccwwwccccccwwwww
+--------------------------
+de cara al viento.
+wwwccccccwwcccwwww
+--------------------------
+cortar cebolla me hace llorar.
+cccccwwcccwwwwwcccccwwwcccwwww
+--------------------------
+ella quiere regresar a casa.
+ccwwwcccccwwccccwwwwwcccccww
+--------------------------
+no me importa esperar.
+cwwccccccccccccccccwww
+--------------------------
+a nadie mas le interesa el futbol.
+cccccwwwcwwwcccccccwwwwwcwwccccwww
+--------------------------
+vamos a jugar cartas.
+cccwwwcccccwwwccccwww
+--------------------------
+la naranja esta acida.
+wwwcccwwwwwcwwwwcccwww
+--------------------------
+espiando por el agujero de la cerradura.
+cccccwwwwcwwwwwwccccwwwwwwwwwwcccccwwwww
+--------------------------
+regrese a casa antes de las diez.
+ccccwwwwcccccwwcccwwwwwwcwwwcccww
+--------------------------
+el era el galan de la novela.
+wwwccwwcwwccccwwwwwwwwcccccww
+--------------------------
+me gusto mucho su texto.
+ccccccwwwcccwwwcwwcwwwww
+--------------------------
+estoy con una camiseta amarilla.
+ccccwwcwwwcwwwcccccwwwwcccwwwwww
+--------------------------
+paz amor sombra y agua fresca.
+cccccccwwccccwwwcccccwwcccwwww
+--------------------------
+el mundo gira en torno de si mismo.
+wwwccwwwwccwwwcwwcccwwwcwwccccwwwww
+--------------------------
+hablamos mas tarde.
+ccccccwwwcwwwcccwww
+--------------------------
+sujeta mi mano.
+ccccccccccccccc
+--------------------------
+conferencia de agronomia.
+cccccccwwwwwwwwcccccwwwww
+--------------------------
+escucho musica todos los dias.
+cccccwwwcccwwwwccwwwwwwwwccwww
+--------------------------
+el grita muy alto.
+wwwcccwwwccccccccc
+--------------------------
+orden del dia.
+ccwwwwcwwwccww
+--------------------------
+tienes que esforzarte mas.
+cccccwwcwwwcccwwwwwwwwcwww
+--------------------------
+se quedo mas calmado despues que ella se fue.
+cwwcccccccwwwccccwwwwcccwwwwwcwwwccwwwcwwcccc
+--------------------------
+pero que cabellos.
+ccccccwwwccccwwwww
+--------------------------
+busquenos mas tarde.
+ccccwwwwwwcwwwcccwww
+--------------------------
+el chocolate es bueno para la salud.
+wwwcccwwwwwwwcccccccwwcwwwwwwwccwwww
+--------------------------
+senti mucho frio en la playa.
+cccccccccwwwcccwwcwwwwwccccww
+--------------------------
+lagrima de cocodrilo.
+cccwwwwwwwwcccwwwwwww
+--------------------------
+que cosa mas ridicula.
+cwwwccccccwwwcccwwwwww
+--------------------------
+corbata azul con bolitas amarillas.
+ccccwwwwccwwwwwwwccccwwwwcccwwwwwww
+--------------------------
+tu estas linda.
+cccccccccccccww
+--------------------------
+te gusta ir de compras.
+cccccwwwwcccwwwcccccwww
+--------------------------
+el escupio en el suelo.
+wwwcccccwwwcwwwwwccccww
+--------------------------
+el mayor de todos los mares.
+wwwccwwwwcwwccwwwwwwwwccccww
+--------------------------
+comida de mama es siempre mejor.
+cccccwwcwwcccwwcccccwwwwwwcccwww
+--------------------------
+ya hice mi buena accion del dia.
+cwwcccccccccccwwwcccwwwwcwwwccww
+--------------------------
+alguien llama a la puerta.
+cccccwwwccccccwwwwwccccccc
+--------------------------
+salio en el diario de hoy.
+cccccccwwwwwcwwwwwwwwwcccc
+--------------------------
+donde deje mis lentes.
+cccwwwccccccccccccwwww
+--------------------------
+voy para mi casa de campo.
+cccccwwwwccccccccwwwccccww
+--------------------------
+hamburguesa con patata frita.
+cccwwwwwwwwwcwwwccccwwwcccwww
+--------------------------
+no beba antes de conducir.
+cwwccccccccwwwwwwccccwwwww
+--------------------------
+mi bicicleta siempre esta rota.
+ccccccwwwwwwwcccwwwwwccwwwcccww
+--------------------------
+papa noel baja por la chimenea.
+cccwwcccwwcccwwcwwwwwwccccwwwww
+--------------------------
+escriba mas frases.
+ccccccwwcwwwccccwww
+--------------------------
+estoy con mucho frio.
+ccccwwcwwwcccwwwcccww
+--------------------------
+llueve sin parar en todo el litoral.
+cccwwwwccwwcccccccwwcwwwwcwwcccwwwww
+--------------------------
+mire siempre para ambos lados.
+cccwwcccwwwwwcwwwwccwwwwcccwww
+--------------------------
+la gasolina esta muy cara.
+wwwcccwwwwwwcwwwwccccccccc
+--------------------------
+al ganador las patatas.
+cwwccccccwwcwwwccccwwww
+--------------------------
+prohibido estacionar.
+ccccwwwwwwccccccccccc
+--------------------------
+leche caliente da dolor en los dientes.
+cccwwwcccccwwwwccccccwwwwwwcwwwccccwwww
+--------------------------
+vas a tener que esforzarte mucho.
+cccccccccwwwwwwwcccwwwwwwwwcccwww
+--------------------------
+donde dejo mis cosas.
+cccwwwccccccccccccwww
+--------------------------
+hacienda de algodon.
+cccwwwwwwcwwccccwwww
+--------------------------
+bailes de carnaval con fantasias.
+cccwwwwwwwcccccwwwwcwwwcccwwwwwww
+--------------------------
+te gusta acampar.
+cccccwwwwccccwwww
+--------------------------
+perdi las llaves de casa.
+ccccccccwwccccwwwwwwccccc
+--------------------------
+el es un desastre.
+wwwccccwwcccccwwww
+--------------------------
+el idolo de la nacion.
+wwwccccwwwwwwwwcwwwwww
+--------------------------
+no siempre se puede hacer lo correcto.
+cwwccwwwwwwcwwccwwwwcwwwwwcccccccccwww
+--------------------------
+los manifestantes bloquearon la avenida.
+cwwwccccccccccwwwwccwwwwwwwwwwwwcccwwwww
+--------------------------
+la palestra fue muy buena.
+wwwccccwwwwwcwwwcccccccwww
+--------------------------
+pollo con quimbombo.
+ccccwwcwwwccccwwwwww
+--------------------------
+dios ayuda a quien madruga.
+cccwwccwwwwcccwwwwwcccwwwww
+--------------------------
+usted necesita un empleo nuevo.
+cccwwwccccccwwwcwwccccwwwccwwww
+--------------------------
+ultima novedad en tecnologia.
+ccwwwwwccccwwwwccccccccwwwwww
+--------------------------
+respete el limite de velocidad.
+cccccccccwwcwwwwwwcwwcccwwwwwww
+--------------------------
+mi abrigo calienta bastante.
+ccccccccwwcccccwwwwccccwwwww
+--------------------------
+despues aguante las consecuencias.
+cccwwwwwccccwwwwcwwwcccccwwwwwwwww
+--------------------------
+estoy perdiendo la voz.
+ccccwwccccccwwwwwwwccww
+--------------------------
+usted tiene toda la razon.
+cccwwwccwwwwccccccwwccwwww
+--------------------------
+la otra edicion era mejor.
+wwwcwwwwcccwwwwwccwwcccwww
+--------------------------
+pagamos muchos impuestos.
+cccccwwwcccwwwwccwwwwwwww
+--------------------------
+fiesta en el apartamento.
+cccwwwwcwwwwwcccccwwwwwww
+--------------------------
+aquel museo es increible.
+ccwwwwcccwwwcccccccccwwww
+--------------------------
+olvide su cumpleanos.
+ccwwwwwcwwccccccwwwww
+--------------------------
+la devastacion de los bosques crecio.
+wwwccccwwwwwwwwwwwwwwwcccwwwwwccccccc
+--------------------------
+me gusta jugar tenis.
+cccccwwwwcccwwwcccccc
+--------------------------
+usted ya acabo de comer.
+cccwwwcwwccccwwwwwcccccc
+--------------------------
+siga las instrucciones.
+ccccccwwwcccwwwwwwwwwww
+--------------------------
+los aeropuertos son siempre movimentados.
+cwwwccccwwwwwwwwccwwcccwwwwwcccccwwwwwwww
+--------------------------
+siga las placas del camino.
+ccccccwwwccccwwwcwwwcccwwww
+--------------------------
+un fenomeno muy raro.
+cwwcccwwwwwwcccccccww
+--------------------------
+primero las obligaciones.
+cccwwwwwccwwcwwwwwwwwwwww
+--------------------------
+valido hasta fin de ano.
+ccccwwwcwwwwwccwwwwwcccc
+--------------------------
+jugo de naranja sin hielo.
+cccwwwwwcccwwwwwccwwcccwww
+--------------------------
+el pasaje esta muy caro.
+wwwcccccwwcwwwwccccccccc
+--------------------------
+una imagen vale mas que mil palabras.
+cwwwcccwwwwccwwwcwwwcwwwcccccccwwwwww
+--------------------------
+llego por via aerea.
+ccccwwcwwwcwwwccccww
+--------------------------
+tu camara tira fotos lindas.
+ccccccwwwwcccwwcccwwwccccwww
+--------------------------
+perdi el tren de las once.
+cccccccwwcccccwwwwwwwccwww
+--------------------------
+comida casera de la hacienda.
+cccccwwccccwwwwwwwwwccccwwwww
+--------------------------
+el perro se comio mi prueba.
+wwwccccwwcwwccccccccccccwwww
+--------------------------
+que pregunta complicada.
+cwwwccccwwwwwccccccwwwww
+--------------------------
+voy a usar mis lentes.
+ccccccccwwwcccccccwwww
+--------------------------
+gol en el ultimo minuto.
+cccccwwwwwcwwwwwwccccwww
+--------------------------
+coleccion primavera verano.
+cccccwwwwwcccccwwwwwccccwww
+--------------------------
+la empresa quebro.
+wwwccwwwwwwccccwww
+--------------------------
+la inflacion bajo.
+wwwccccwwwwwwccwww
+--------------------------
+feria en la plaza de la republica.
+ccccwwcwwwwwccccccwwwwwwwwwwwwwwww
+--------------------------
+ahora necesitas descansar.
+ccwwwwcccccccwwwccccccwwww
+--------------------------
+me gusta leer acostado en la cama.
+cccccwwwwcccwwccccwwwwwcwwwwwccccc
+--------------------------
+sin lugar en el estacionamiento.
+ccwwccwwwwcwwwwwcccccwwwwwwwwwww
+--------------------------
+romance en la plaza.
+ccccwwwwcwwwwwcccccc
+--------------------------
+estudia todos los dias.
+ccccccccccwwwwwwwwccwww
+--------------------------
+usted planteo un punto importante.
+cccwwwccccccwwcwwccwwwwccccwwwwwww
+--------------------------
+ella tiene que mejorar su comportamiento.
+ccwwwccwwwwcwwwcccccwwwcwwcccwwwwwwwwwwww
+--------------------------
+vamos a investigar a fondo.
+cccwwwcccccccwwwwwwwwcccwww
+--------------------------
+soberania de la nacion.
+ccccwwwwwwwwwwwwcwwwwww
+--------------------------
+las cucarachas sobreviven a todo.
+cwwwcccwwwwwwwwccccccccwwwccccwww
+--------------------------
+llovio mucho en septiembre.
+cccwwwwcccwwwcwwcccwwwwwwww
+--------------------------
+queso con guayaba.
+ccccwwcwwwcwwwwwww
+--------------------------
+terminaron las inscripciones.
+ccccccccwwwcwwwccccwwwwwwwwww
+--------------------------
+me gusta su cara.
+cccccwwwwcwwccccc
+--------------------------
+agua fria sin gas.
+cccwwcccccccwwccww
+--------------------------
+el bebe esta llorando.
+wwwccccccwwwwcccwwwwww
+--------------------------
+paz y tranquilidad.
+ccccwwcccccwwwwwwww
+--------------------------
+el objetivo esta claro.
+wwwccwwwwwwwccwwwccccww
+--------------------------
+ni alla ni aqui.
+ccccccwwcccccccc
+--------------------------
+caminata nocturna los sabados.
+ccccwwwwwcccwwwwwwcwwwccccwwww
+--------------------------
+tu quieres ir al cine.
+cccccccccwwccccwwccccc
+--------------------------
+olla de aluminio con tapa.
+ccwwwwwwccccwwwwwcwwwcccww
+--------------------------
+todos los colores del arco iris.
+ccwwwwwwwwccccwwwwcwwwccccccccww
+--------------------------
+las mas pedidas.
+cwwwccwwcccccwww
+--------------------------
+en el amor vale todo.
+cwwwwwcccwwccwwwccwww
+--------------------------
+se arrodilla y reza.
+cwwcccccwwwwwcccccww
+--------------------------
+cerrado por inventario.
+ccccwwwwcwwwcccccwwwwww
+--------------------------
+todo lo que sube baja.
+ccwwwwwwcwwwccccccccww
+--------------------------
+salio el tiro por la culata.
+cccccccwwcccwwcwwwwwwccccwww
+--------------------------
+caldo de frijol con carne.
+ccccwwwwwcccwwwwcwwwccccww
+--------------------------
+seminarios los sabados.
+ccccwwwwwwwcwwwccccwwww
+--------------------------
+imagen de alta resolucion.
+cccwwwwwwwcccwwccwwwwwwwww
+--------------------------
+geografia e historia.
+cccwwwwwwwcccccwwwwww
+--------------------------
+agua blanda en piedra dura.
+cccwwccwwwwwcwwccccwwwccccc
+--------------------------
+apague las luces de la sala.
+ccccwwwcwwwcccwwwcwwwwwccwww
+--------------------------
+gato amigo del raton.
+ccccccccwwwcwwwccccww
+--------------------------
+dos entradas para el teatro.
+ccwwccccccwwwcwwwwwwwcccwwww
+--------------------------
+montar bicicleta hace bien.
+cccccwwcccwwwwwwwccwwwcccww
+--------------------------
+plaza de la iglesia matriz.
+ccccccwwwwwwcccwwwwwccccwww
+--------------------------
+pollo con catupiri.
+ccccwwcwwwcccwwwwww
+--------------------------
+el precio de la gasolina subio.
+wwwccccwwwcwwwwwcccwwwwwwccccww
+--------------------------
+voy a tomar una ducha.
+ccccccccccwwcwwwcccwww
+--------------------------
+muchos anos de alegria.
+cccwwwwccwwwwwwcccccwww
+--------------------------
+sombra y agua fresca.
+ccccwwwcccccwwcccwwww
+--------------------------
+encuentros los domingos.
+cccccccccwwcwwwcccwwwwww
+--------------------------
+negocios secretos.
+ccwwwwwwwcccccccww
+--------------------------
+un fuerte abrazo.
+cwwcccwwwwccccwww
+--------------------------
+cultura de un pueblo.
+cccwwwwwcwwcwwccwwwww
+--------------------------
+de que planeta usted vino.
+wwwcwwwcccccwwwcccwwwcccww
+--------------------------
+chica de ipanema.
+ccccwwwwwccwwwwww
+--------------------------
+objeto volador no identificado.
+cwwwwwwccccwwwwcwwcccccccwwwwww
+--------------------------
+juegos de invierno.
+ccccwwwwwwccccwwwww
+--------------------------
+colores llamativos.
+ccccwwwwccccccwwwww
+--------------------------
+tenedor cuchara y cuchillo.
+cccccwwwcccwwwwwcccccwwwwww
+--------------------------
+los anillos de saturno.
+cwwwccccwwwwwwwccccwwww
+--------------------------
+desayuno en la cama.
+cccccwwwwcwwwwwccccc
+--------------------------
+desarrollo economico.
+cccwwwwwwwwcwwwwwwwww
+--------------------------
+hasta los mejores caballeros caen.
+cwwwwwcwwwcccwwwwwcccccwwwwwwcccww
+--------------------------
+con mucha paciencia.
+cwwwccccccccccwwwwww
+--------------------------
+tengo que comprar zapatos nuevos.
+ccccwwcwwwccccccwwcccwwwwwcccwwww
+--------------------------
+abrio el paraguas.
+ccccwwcwwcccccwwww
+--------------------------
+dulce de banana con almibar.
+cccwwwwwwccccwwwcwwwccccwwww
+--------------------------
+lavar la ropa todos los dias.
+cccwwwwwwcccwwccwwwwwwwwccwww
+--------------------------
+canal norte sur.
+ccccwwccccwwcwww
+--------------------------
+el sol sale todas las mananas.
+wwwcccccccccccwwwwwwwwccccwwww
+--------------------------
+mande noticias suyas.
+ccccwwcccccwwwwcccwww
+--------------------------
+caminata dos veces por semana.
+ccccwwwwwccwwcwwwwwcwwwcccwwww
+--------------------------
+que tenemos para cenar.
+cwwwcccccwwwcwwwwccccww
+--------------------------
+es hora del intervalo.
+cccccccccwwwcccccccwww
+--------------------------
+el filme es mejor de lo que parece.
+wwwcccwwwccccccwwwwwwcccwwwwccccwww
+--------------------------
+atletas que usan drogas.
+cccwwwwwcwwwcccccccwwwww
+--------------------------
+tu quieres jugar conmigo.
+cccccccccwwcccwwwcccccwww
+--------------------------
+que bello abrigo de cuero.
+cwwwcccwwwcccccwwwwwccccww
+--------------------------
+te cortaste el cabello.
+ccccccccwwwwcwwccccwwww
+--------------------------
+me gusta caminar en el parque.
+cccccwwwwccccccwwcwwwwwccccwww
+--------------------------
+comiste lo mismo que el.
+ccccccwwccccwwwwwwwwwcww
+--------------------------
+tengo miedo a la oscuridad.
+ccccwwccccwwccwwwccwwwwwwww
+--------------------------
+todos quieren ganar la loteria.
+ccwwwwcccccwwwcccccccwwcccwwwww
+--------------------------
+recibi una oferta de trabajo.
+ccccccccwwwcccwwwwcwwcccwwwww
+--------------------------
+me quiero ir a casa ahora.
+cccccccccccccwwcccwwccwwww
+--------------------------
+no eche basura en la calle.
+cwwcccwwccccwwwcwwwwwcccwww
+--------------------------
+la sequia estropeo la siembra.
+wwwcccwwwwcccccwwwwwwwcccwwwww
+--------------------------
+estamos lejos del destino.
+cccccwwwcccwwwcwwwcccccwww
+--------------------------
+mentir hacer crecer la nariz.
+ccccwwwcccwwwcccccwwcwwcccwww
+--------------------------
+coma la ensalada por favor.
+cccccwwwccccwwwwwcwwwccwwww
+--------------------------
+sonando despierto.
+ccccwwwwcccccwwwww
+--------------------------
+feria internacional del libro.
+ccccwwccccccwwwwwwwwccwwccwwww
+--------------------------
+todas las letras del alfabeto.
+ccwwwwwwwwcwwwwwwcwwwcccwwwwww
+--------------------------
+el banco abre tarde y cierra temprano.
+wwwcwwwwwcccwwcccwwwcccccccwwcccccwwww
+--------------------------
+hacia abajo todos los santos ayudan.
+ccccwwccccwwccwwwwwwwwccccwwwcccccww
+--------------------------
+trabajadores rurales estan en huelga.
+ccccwwwwwwwwwcccwwwwwccccccwwwcccwwww
+--------------------------
+la inflacion esta en baja.
+wwwccccwwwwwwcwwwwcwwcccww
+--------------------------
+me gusta el frijol con harina.
+cccccwwwwwwwcccwwwwcwwwcccwwww
+--------------------------
+los chismes se propagan como el fuego.
+cwwwccccwwwwcwwcccccwwwwcwwwwcwwccccww
+--------------------------
+que novela mas aburrida.
+cwwwcccccwwcwwwccccwwwww
+--------------------------
+la gallina se fue para el otro lado.
+wwwcccwwwwwcwwccccccwwwwwwccwwwcwwww
+--------------------------
+el caballo blanco de napoleon.
+wwwcccccwwwccwwwwwcwwcccwwwwww
+--------------------------
+echa la basura en la lata azul.
+cccwwwwwccccwwwcwwwwwcccccccwww
+--------------------------
+mucha arena para mi camion.
+ccccccccccwwcwwwwccccccccww
+--------------------------
+
+Total de frases analisadas: 300
+
+
+============================
+Acceleration Rate
+KSR = (kn - ki) / kn * 100
+where: 
+       ki = actual keystrokes
+       ks = keystrokes required to select suggestion
+       kn = keystrokes required with no prediction enabled
+
+ki : 3739
+ks : 1178
+kn : 7561
+
+KSR: 50.5489

@@ -1,0 +1,1526 @@
+=========================================================================
+Calculador do Acceleration Rate para o experimento de aceleracao AugFIx
+=========================================================================
+Analisando arquivo de frases: frasesEN.txt
+Numero de frases no arquivo: 500
+--------------------------
+Frases analisadas: 
+--------------------------
+my watch fell in the water.
+cwwcccwwwcccwwcwwwwwwcccwww
+--------------------------
+prevailing wind from the east.
+cccccwwwwwwcccwwcwwwwwwwwcccww
+--------------------------
+never too rich and never too thin.
+ccwwwwccwwcccwwwwwwccwwwwccwwccccc
+--------------------------
+breathing is difficult.
+cccccwwwwwcwwcwwwwwwwww
+--------------------------
+i can see the rings on saturn.
+cccwwwccwwwwwwcccwwwcwwcccwwww
+--------------------------
+physics and chemistry are hard.
+ccwwwwwwcwwwccccwwwwwwccwwcccww
+--------------------------
+my bank account is overdrawn.
+cwwcccwwcccwwwwwcwwcccccwwwww
+--------------------------
+elections bring out the best.
+ccccwwwwwwccwwwwccwwwwwwccwww
+--------------------------
+we are having spaghetti.
+cccwwwwcccwwwwccccwwwwww
+--------------------------
+time to go shopping.
+ccwwwwwwwwwccccwwwww
+--------------------------
+a problem with the engine.
+wwcccwwwwwwwwwwwwwwcccwwww
+--------------------------
+elephants are afraid of mice.
+ccccwwwwwwccwwccwwwwwwwwcccww
+--------------------------
+my favorite place to visit.
+cwwcccwwwwwwccwwwwcwwccccww
+--------------------------
+three two one zero blast off.
+cccwwwccwwccwwcwwwwcccwwwccww
+--------------------------
+my favorite subject is psychology.
+cwwcccwwwwwwcccwwwwwcwwccccccwwwww
+--------------------------
+circumstances are unacceptable.
+ccwwwwwwwwwwwwccwwcccwwwwwwwwww
+--------------------------
+watch out for low flying objects.
+cccwwwwwwwcwwwcccccccwwwwccwwwwww
+--------------------------
+if at first you do not succeed.
+cccccccwwwwwcwwwcwwwwwwccccccww
+--------------------------
+please provide your date of birth.
+ccwwwwwccccwwwwcwwwwcccwwwwwcccwww
+--------------------------
+we run the risk of failure.
+cccccwwcwwwccwwwwwwcccwwwww
+--------------------------
+prayer in schools offends some.
+ccccwwwcwwcccwwwwwccccccwwccwww
+--------------------------
+he is just like everyone else.
+cwwcwwccwwwcwwwwccccwwwwwwwwww
+--------------------------
+great disturbance in the force.
+ccwwwwcccccwwwwwwwcwwwwwwcccwww
+--------------------------
+love means many things.
+cccwwccwwwwcccwwcccwwww
+--------------------------
+you must be getting old.
+cwwwcwwwwcwwcwwwwwwwccww
+--------------------------
+the world is a stage.
+wwwwcwwwwwwwwwwcccwww
+--------------------------
+can i skate with sister today.
+cwwwcccccwwwcwwwwcccwwwwcccwww
+--------------------------
+neither a borrower nor a lender be.
+cccwwwwwccccccwwwwwcccccccccwwwwcww
+--------------------------
+one heck of a question.
+ccwwcccwwwwwwwcccwwwwww
+--------------------------
+question that must be answered.
+cwwwwwwwwcwwwwccwwwwwwcccwwwwww
+--------------------------
+beware the ides of march.
+cccwwwwwwwwwwwwwwwwwwwwww
+--------------------------
+double double toil and trouble.
+cccwwwwcwwwwwwwwwwwwwwwwwwwwwww
+--------------------------
+the power of denial.
+wwwwcccwwwwwwccccwww
+--------------------------
+i agree with you.
+cccccwwwwwwwwwwww
+--------------------------
+do not say anything.
+cwwwwwwccwwcccwwwwww
+--------------------------
+play it again sam.
+ccwwwcwwwwwwwwcwww
+--------------------------
+the force is with you.
+wwwwcccwwwcwwcwwwwcwww
+--------------------------
+you are not a jedi yet.
+cwwwwwwwcwwwcccccwwccww
+--------------------------
+an offer you cannot refuse.
+cccccwwwwcwwwcccwwwwcccwwww
+--------------------------
+are you talking to me.
+ccwwcwwwcccwwwwwwwwcww
+--------------------------
+yes you are very smart.
+cccccwwwwwwwcwwwwcccwww
+--------------------------
+all work and no play.
+ccwwccwwwwwwwcwwccwww
+--------------------------
+hair gel is very greasy.
+cccwwcccccwwcwwwwcccccww
+--------------------------
+valium in the economy size.
+ccccwwwcwwwwwwccwwwwwwccwww
+--------------------------
+the facts get in the way.
+wwwwccccwwcwwwcwwwwwwcwww
+--------------------------
+the dreamers of dreams.
+wwwwccccccwwwwwwccccwww
+--------------------------
+did you have a good time.
+cwwwcwwwcwwwwwwcwwwwccwww
+--------------------------
+space is a high priority.
+ccwwwwcwwwwcccwwccccwwwww
+--------------------------
+you are a wonderful example.
+cwwwwwwwcccccwwwwwwwccwwwwww
+--------------------------
+do not squander your time.
+cwwwwwwcccccwwwwcwwwwccwww
+--------------------------
+do not drink too much.
+cwwwwwwccwwwwccwwwwwww
+--------------------------
+take a coffee break.
+ccwwwwwcccwwwwcccwww
+--------------------------
+popularity is desired by all.
+cccwwwwwwwwcwwccccwwwwcwwccww
+--------------------------
+the music is better than it sounds.
+wwwwccwwwwcwwcccwwwwwwwwwcwwccccwww
+--------------------------
+starlight and dewdrop.
+cccccwwwwwcwwwcccwwwww
+--------------------------
+the living is easy.
+wwwwcccwwwwcwwcwwww
+--------------------------
+fish are jumping.
+cccwwccwwcccwwwww
+--------------------------
+the cotton is high.
+wwwwcccwwwwcwwcccww
+--------------------------
+drove my chevy to the levee.
+cccwwwcwwccccwwcwwwwwwcccwww
+--------------------------
+but the levee was dry.
+cwwwwwwwcccwwwcwwwccww
+--------------------------
+i took the rover from the shop.
+ccccwwwwwwwcccwwwcwwwwwwwwccccc
+--------------------------
+movie about a nutty professor.
+ccccwwccwwwwwwcccwwwccccwwwwww
+--------------------------
+come and see our new car.
+cwwwwcwwwccwwccwwcwwwcccc
+--------------------------
+coming up with killer sound bites.
+ccccwwwcwwcwwwwcccccwwcccwwwccccww
+--------------------------
+i am going to a music lesson.
+ccwwwccwwwwwwwcccccwwwcccwwww
+--------------------------
+the opposing team is over there.
+wwwwcccccwwwwccccccwwcwwwwccccww
+--------------------------
+soon we will return from the city.
+ccwwwccccwwwwcccwwwwcwwwwwwwwccwww
+--------------------------
+i am wearing a tie and a jacket.
+ccwwwcccwwwwwcccccccwwwwwcccwwww
+--------------------------
+the quick brown fox jumped.
+wwwwcccwwwccwwwwcccccccwwww
+--------------------------
+all together in one big pile.
+ccwwccwwwwwwwwwwcwwwccwwccccc
+--------------------------
+wear a crown with many jewels.
+cccccccccccwwcwwwwcwwwwcccwwww
+--------------------------
+there will be some fog tonight.
+cccwwwccwwwwwwccwwwcccccccwwwww
+--------------------------
+i am allergic to bees and peanuts.
+ccwwwccccwwwwwcwwccccccwwwccccwwww
+--------------------------
+he is still on our team.
+cwwcwwcwwwwwcwwccwwccccc
+--------------------------
+the dow jones index has risen.
+wwwwcccccccwwwccccwwccwwccccww
+--------------------------
+my preferred treat is chocolate.
+cwwccccwwwwwwcccwwwcwwccccwwwwww
+--------------------------
+the king sends you to the tower.
+wwwwcwwwwccccwwcwwwcwwcwwwccccww
+--------------------------
+we are subjects and must obey.
+cccwwwwcccwwwwwwcwwwccwwwcccww
+--------------------------
+mom made her a turtleneck.
+ccccccwwwcwwwccccccwwwwwww
+--------------------------
+goldilocks and the three bears.
+ccccwwwwwwwcwwwwwwwcwwwwwccccww
+--------------------------
+we went grocery shopping.
+cccccwwwccccwwwwccccwwwww
+--------------------------
+the assignment is due today.
+wwwwcccccwwwwwwcwwccwwcccwww
+--------------------------
+what you see is what you get.
+ccwwwcwwwcwwwccccwwwwcwwwccww
+--------------------------
+for your information only.
+cwwwcwwwwcccwwwwwwwwwccwww
+--------------------------
+a quarter of a century.
+wwcccwwwwwwwwwwccwwwwww
+--------------------------
+the store will close at ten.
+wwwwcccwwwccwwwccwwwwccccccc
+--------------------------
+head shoulders knees and toes.
+ccwwwcccccwwwwwcccwwwcwwwcccww
+--------------------------
+vanilla flavored ice cream.
+cccwwwwwccccwwwwwccwwcccccc
+--------------------------
+frequently asked questions.
+ccccwwwwwwwccwwwwcccwwwwwww
+--------------------------
+round robin scheduling.
+cwwwwwccccwwccccccccwww
+--------------------------
+information super highway.
+ccwwwwwwwwwwccccwwccccwwww
+--------------------------
+my favorite web browser.
+cwwcccwwwwwwccccccccwwww
+--------------------------
+the laser printer is jammed.
+wwwwcccwwwcccccwwwcwwcccwwww
+--------------------------
+all good boys deserve fudge.
+ccwwcwwwwcccwwccccwwwwcccwww
+--------------------------
+the second largest country.
+wwwwccwwwwwcccwwwwwccccwwww
+--------------------------
+call for more details.
+cccwwcwwwcwwwwccccwwww
+--------------------------
+just in time for the party.
+cwwwwwwwwwwwwcwwwcwwwccwwww
+--------------------------
+have a good weekend.
+cwwwwwwcwwwwcccwwwww
+--------------------------
+video camera with a zoom lens.
+cccwwwcccwwwwcwwwwwwccwwwcccww
+--------------------------
+what a monkey sees a monkey will do.
+ccwwwccccccwwwcccccccccccwwwccwwwcww
+--------------------------
+that is very unfortunate.
+cwwwwwwwcwwwwcccwwwwwwwww
+--------------------------
+the back yard of our house.
+wwwwccwwwccwwwcwwcwwwcwwwww
+--------------------------
+this is a very good idea.
+ccwwwwwwwwcwwwwwwwwwccwww
+--------------------------
+reading week is just about here.
+ccccwwwwcccwwcwwccwwwcwwwwwcwwww
+--------------------------
+our fax number has changed.
+ccwwccccccwwwwwccwwccccwwww
+--------------------------
+thank you for your help.
+cccwwwwwwwwwwwcwwwwcccww
+--------------------------
+no exchange without a bill.
+cwwcccwwwwwwccwwwwwwwwcccww
+--------------------------
+the early bird gets the worm.
+wwwwcwwwwwcccwwcccwwcwwwccccc
+--------------------------
+buckle up for safety.
+cccwwwwcwwcwwwcccwwww
+--------------------------
+this is too much to handle.
+ccwwwwwwccwwcwwwwcccccwwwww
+--------------------------
+protect your environment.
+ccccwwwwcwwwwcccwwwwwwwww
+--------------------------
+world population is growing.
+ccwwwwcccwwwwwwwwcwwccccwwww
+--------------------------
+the library is closed today.
+wwwwcccwwwwwcwwcccwwwwcccwww
+--------------------------
+mary had a little lamb.
+cccwwcwwwwwcwwwwwwcccww
+--------------------------
+teaching services will help.
+cccwwwwwwcccwwwwwwccwwwcwwww
+--------------------------
+we accept personal checks.
+cccccccwwwccccwwwwwccccwww
+--------------------------
+this is a non profit organization.
+ccwwwwwwwwccccccccwwwccwwwwwwwwwww
+--------------------------
+user friendly interface.
+cccwwccccwwwwwccccccwwww
+--------------------------
+healthy food is good for you.
+ccccwwwwcccwwcwwcwwwwcwwwcwww
+--------------------------
+hands on experience with a job.
+cccwwwwwwccwwwwwwwwwcwwwwwwcwww
+--------------------------
+this watch is too expensive.
+ccwwwcccwwwcwwccwwccccwwwwww
+--------------------------
+the postal service is very slow.
+wwwwccccwwwcccwwwwwcwwcwwwwcccww
+--------------------------
+communicate through email.
+cccccwwwwwwwcccwwwwwcccwww
+--------------------------
+the capital of our nation.
+wwwwccwwwwwwwwwcwwwccccwww
+--------------------------
+travel at the speed of light.
+ccwwwwwcccwwwwccwwwwwwwwwwwww
+--------------------------
+i do not fully agree with you.
+cccwwwwwwcwwwwwcccwwwwwwwwwwww
+--------------------------
+gas bills are sent monthly.
+cccccccwwwccwwcccwwccccwwww
+--------------------------
+earth quakes are predictable.
+ccwwwwccccwwwccwwcccccccwwwww
+--------------------------
+life is but a dream.
+cwwwwcwwccccccccwwww
+--------------------------
+take it to the recycling depot.
+ccwwwccccwwwwwwccccwwwwwwccccww
+--------------------------
+sent this by registered mail.
+cccwwcccwwccccccwwwwwwwwccccc
+--------------------------
+fall is my favorite season.
+cccwwcwwccccccwwwwwwcccwwww
+--------------------------
+a fox is a very smart animal.
+wwcccccwwwwcwwwwcccwwwcccwwww
+--------------------------
+the kids are very excited.
+wwwwcccwwccwwcwwwwccccwwww
+--------------------------
+parking lot is full of trucks.
+ccccwwwwcccccwwccwwwwwwccccwww
+--------------------------
+my bike has a flat tire.
+cwwcccwwccwwwwccwwwcccww
+--------------------------
+do not walk too quickly.
+cwwwwwwcccwwccwwccccwwww
+--------------------------
+a duck quacks to ask for food.
+wwccwwwccccwwwcwwccwwcwwwcccww
+--------------------------
+limited warranty of two years.
+cccwwwwwccccwwwwwwwwccwwcwwwww
+--------------------------
+the four seasons will come.
+wwwwccwwwccccwwwwccwwwcccww
+--------------------------
+the sun rises in the east.
+wwwwccwwcccwwwcwwwwwwcccww
+--------------------------
+it is very windy today.
+cwwwwwcwwwwccccwwcccwww
+--------------------------
+do not worry about this.
+cwwwwwwccccwwccwwwwccwww
+--------------------------
+dashing through the snow.
+cccwwwwwcccwwwwwwwwwccwww
+--------------------------
+want to join us for lunch.
+cccwwwwwcwwwwcwwcwwwccwwww
+--------------------------
+stay away from strangers.
+cccccccwwwwwwwwcccccwwwww
+--------------------------
+accompanied by an adult.
+ccccwwwwwwwwwwwcwwcccwww
+--------------------------
+see you later alligator.
+ccwwcwwwcccwwwccccwwwwww
+--------------------------
+make my day you sucker.
+cccwwcccccwwcwwwccccwww
+--------------------------
+i can play much better now.
+cccwwwccwwwccwwwcwwwwwwcwww
+--------------------------
+she wears too much makeup.
+cwwwccccwwccwwwwwwwccccwww
+--------------------------
+my bare face in the wind.
+cwwcccccccwwwcwwwwwwcwwww
+--------------------------
+batman wears a cape.
+ccccwwwccccwwwwccccc
+--------------------------
+i hate baking pies.
+cccccwwcccwwwwccccc
+--------------------------
+lydia wants to go home.
+cccwwwcccwwwwwwcwwccwww
+--------------------------
+win first prize in the contest.
+ccccccwwwwccccwwcwwwwwwcccccwww
+--------------------------
+freud wrote of the ego.
+ccccwwcccwwwcwwwwwwcccc
+--------------------------
+i do not care if you do that.
+cccwwwwwwccccccccwwwwccccwwww
+--------------------------
+always cover all the bases.
+ccwwwwwcccwwwccwwwwwwccccww
+--------------------------
+nobody cares anymore.
+cccwwwwccccccccccwwww
+--------------------------
+can we play cards tonight.
+cwwwcwwccwwwccccwwcccwwwww
+--------------------------
+get rid of that immediately.
+cwwwcwwwwwwcccwwccwwwwwwwwww
+--------------------------
+i watched blazing saddles.
+cccccwwwwwccccwwwwcccwwwww
+--------------------------
+the sum of the parts.
+wwwwccccwwwwwwwcccccc
+--------------------------
+they love to yap about nothing.
+cccwwcccwwcccccccccwwwwcwwwwwww
+--------------------------
+peek out the window.
+cccccccwwwwwwcwwwwww
+--------------------------
+be home before midnight.
+cwwccwwwccwwwwwcccwwwwww
+--------------------------
+he played a pimp in that movie.
+cwwcwwwwwwwwcccwwcwwcwwwwccccww
+--------------------------
+i skimmed through your proposal.
+ccccccwwwwcccwwwwwcwwwwccccwwwww
+--------------------------
+he was wearing a sweatshirt.
+cwwwwwwcccwwwwwccccccwwwwwww
+--------------------------
+no more war no more bloodshed.
+cwwwwwwwccwwcwwwwwwwcccccwwwww
+--------------------------
+toss the ball around.
+cccwwwwwwccwwwccwwwww
+--------------------------
+i will meet you at noon.
+cccwwwwcccwwcwwwccccccww
+--------------------------
+i want to hold your hand.
+ccccwwwwwwccwwwcwwwwcccww
+--------------------------
+the children are playing.
+wwwwcccwwwwwwcwwwcccwwwww
+--------------------------
+superman never wore a mask.
+ccccccwwwccwwwwcccccccccccc
+--------------------------
+i listen to the tape everyday.
+cccccwwwwwwwwwwwcccwwccccccwww
+--------------------------
+he is shouting loudly.
+cwwcwwccwwwwwwwcccwwww
+--------------------------
+correct your diction immediately.
+cccwwwwwcwwwwccccwwwwccwwwwwwwwww
+--------------------------
+seasoned golfers love the game.
+ccccwwwwwcccwwwwwcccwwccwwccwww
+--------------------------
+he cooled off after she left.
+cwwccccwwwccwwccwwwwcwwwcwwww
+--------------------------
+my dog sheds his hair.
+cwwccccccccwwccwwcccww
+--------------------------
+join us on the patio.
+ccwwwcwwcwwwwwwcccccc
+--------------------------
+these cookies are so amazing.
+ccccwwccccwwwwccwwcwwcccwwwww
+--------------------------
+i can still feel your presence.
+cccwwwccwwwwcccwwcwwwwcccccccww
+--------------------------
+the dog will bite you.
+wwwwccccccwwwcccwwcwww
+--------------------------
+a most ridiculous thing.
+wwcccwwcccwwwwwwwwcccwww
+--------------------------
+where did you get that tie.
+cccwwwccwwcwwwccwwcccwwcccc
+--------------------------
+what a lovely red jacket.
+ccwwwcccccwwwwccwwcccwwww
+--------------------------
+do you like to shop on sunday.
+cwwcwwwcwwwwcwwccccccwwcccwwww
+--------------------------
+i spilled coffee on the carpet.
+ccccccwwwwcccwwwwcwwwwwwccccwww
+--------------------------
+the largest of the five oceans.
+wwwwcccwwwwwcwwwwwwcccwwcccwwww
+--------------------------
+shall we play a round of cards.
+ccwwwwcccccwwwwwcccwwwcwwccwwww
+--------------------------
+olympic athletes use drugs.
+cccwwwwwcccwwwwwwccwwcccwww
+--------------------------
+my mother makes good cookies.
+cwwcccwwwwcccwwwcwwwwccccwwww
+--------------------------
+do a good deed to someone.
+cwwwwcwwwwccccccwwccccwwww
+--------------------------
+quick there is someone knocking.
+cccwwwcccwwwwwwccccwwwwccccwwwww
+--------------------------
+flashing red light means stop.
+ccccwwwwwccwwcccwwwccwwwwcccww
+--------------------------
+sprawling subdivisions are bad.
+cccwwwwwwwccccwwwwwwwwwccwwcccc
+--------------------------
+where did i leave my glasses.
+cccwwwccwwcccccwwwcwwcccwwwww
+--------------------------
+on the way to the cottage.
+cwwwwwwcwwwwwwwwwwcccwwwww
+--------------------------
+a lot of chlorine in the water.
+wwccccwwwcccwwwwwwcwwwwwwcccwww
+--------------------------
+do not drink the water.
+cwwwwwwccwwwwcwwwcccwww
+--------------------------
+my car always breaks in the winter.
+cwwccccccwwwwwcccccwwcwwwwwwccccwww
+--------------------------
+santa claus got stuck.
+cccwwwccccwwccwwccccww
+--------------------------
+public transit is much faster.
+ccwwwwwccccccwwcwwccwwwcwwwwww
+--------------------------
+zero in on the facts.
+cwwwwcwwcccwwwwccccww
+--------------------------
+make up a few more phrases.
+cccwwcwwcccwwwccwwwcccwwwww
+--------------------------
+my fingers are very cold.
+cwwccccwwwwccwwcwwwwcccww
+--------------------------
+rain rain go away.
+cccwwcccwwcwwccwww
+--------------------------
+bad for the environment.
+cccccwwwwwwwcccwwwwwwwww
+--------------------------
+universities are too expensive.
+ccccccccwwwwwccwwccwwccccwwwwww
+--------------------------
+the price of gas is high.
+wwwwccccwwcwwcccccwwcccww
+--------------------------
+the winner of the race.
+wwwwccccwwwcwwwwwwccwww
+--------------------------
+we drive on parkways.
+ccccccwwwcwwccccwwwww
+--------------------------
+we park in driveways.
+cccccccccwwccccccwwww
+--------------------------
+go out for some pizza and beer.
+cwwcwwwcwwwcwwwwcccwwwcwwwccccc
+--------------------------
+effort is what it will take.
+ccwwwwwcwwcwwwwwwwcwwwwcwwww
+--------------------------
+where can my little dog be.
+cccwwwcwwwccccwwwwwwcccccww
+--------------------------
+if you were not so stupid.
+cccwwwwcwwwwcwwwcwwcccwwww
+--------------------------
+not quite so smart as you think.
+cwwwcwwwwwccccccwwwcwwcwwwccwwww
+--------------------------
+do you like to go camping.
+cwwcwwwcwwwwcwwcwwccccwwww
+--------------------------
+this person is a disaster.
+ccwwwccwwwwwcwwwwcccccwwww
+--------------------------
+the imagination of the nation.
+wwwwcccwwwwwwwwwwwwwwwwccwwwww
+--------------------------
+universally understood to be wrong.
+ccccccccwwwwcccccwwwwwwwwwwwwccwwww
+--------------------------
+listen to five hours of opera.
+cccwwwwwwwccwwwcccwwwcwwcccccc
+--------------------------
+an occasional taste of chocolate.
+cccccwwwwwwwwwcccwwwcwwccccwwwwww
+--------------------------
+victims deserve more redress.
+ccccwwwwccccwwwwcwwwwccccwwww
+--------------------------
+the protesters blocked all traffic.
+wwwwcccccccwwwwccccwwwwccwwcccwwwww
+--------------------------
+the acceptance speech was boring.
+wwwwcccccwwwwwwccccwwwcwwwcccwwww
+--------------------------
+work hard to reach the summit.
+ccwwwcccwwwwwcwwwwwcwwwcccwwww
+--------------------------
+a little encouragement is needed.
+wwwwwwwwwcccwwwwwwwwwwwcwwcccwwww
+--------------------------
+stiff penalty for staying out late.
+ccccwwccccwwwwcwwwccccwwwwccwwcccww
+--------------------------
+the pen is mightier than the sword.
+wwwwcccccwwcccwwwwwwcccwwwwwwccwwww
+--------------------------
+exceed the maximum speed limit.
+cccccwwwwwwcccwwwwwccwwwwcccwww
+--------------------------
+in sharp contrast to your words.
+cwwcccwwwcccwwwwwwcwwcwwwwccccww
+--------------------------
+this leather jacket is too warm.
+ccwwwccccwwwwwwwwwwwcwwccwwcccww
+--------------------------
+consequences of a wrong turn.
+cccccwwwwwwwwwwwccccwwwwccwww
+--------------------------
+this mission statement is baloney.
+ccwwwccccwwwwccccwwwwwwcwwccccwwww
+--------------------------
+you will loose your voice.
+cwwwcwwwwccccwwcwwwwcwwwww
+--------------------------
+every apple from every tree.
+ccwwwwcccccccwwwwccwwwwcccww
+--------------------------
+are you sure you want this.
+ccwwcwwwwwwwwwwwwccwwwccwww
+--------------------------
+the fourth edition was better.
+wwwwcccwwwwcccccwwwcwwwcccwwww
+--------------------------
+this system of taxation.
+ccwwwccwwwwwcwwcccwwwwww
+--------------------------
+beautiful paintings in the gallery.
+cccwwwwwwwcccccwwwwwcwwwwwwcccwwwww
+--------------------------
+a yard is almost as a meter.
+wwccwwwcwwccwwwwwcccwwccccww
+--------------------------
+we missed your birthday.
+cccccccwwwcwwwwccccwwwww
+--------------------------
+coalition governments never work.
+cccwwwwwwwcccwwwwwwwwwccwwwwccwww
+--------------------------
+destruction of the rain forest.
+ccccwwwwwwwwcwwwwwwcccwwccccwww
+--------------------------
+i like to play tennis.
+cccwwwwcwwccwwwccccwww
+--------------------------
+acutely aware of her good looks.
+cccwwwwwccwwwwwwwcwwwcwwwwccccww
+--------------------------
+you want to eat your cake.
+cwwwccwwwwwwcwwwcwwwwccwww
+--------------------------
+machinery is too complicated.
+cccwwwwwwwwwwccwwcccccwwwwwww
+--------------------------
+a glance in the right direction.
+wwccccwwwcwwwwwwccwwwwcccccccwww
+--------------------------
+i just cannot figure this out.
+cccwwwwcccwwwwcccwwwwccwwwccww
+--------------------------
+please follow the guidelines.
+ccwwwwwcccwwwwwwwwccccwwwwwww
+--------------------------
+an airport is a very busy place.
+ccccccwwwwwcwwwwcwwwwcccwwwwwwww
+--------------------------
+mystery of the lost lagoon.
+ccwwwwwwcwwwwwwcccwwcccwwww
+--------------------------
+is there any indication of this.
+cwwcccwwwccwwccccccccwwwcwwwwwww
+--------------------------
+the chamber makes important decisions.
+wwwwcccwwwwwcccwwwccwwwwwwwwccccwwwwww
+--------------------------
+this phenomenon will never occur.
+ccwwwcccwwwwwwwwccwwwcwwwwwccwwww
+--------------------------
+obligations must be met first.
+ccccwwwwwwwwcwwwwwwwcccccwwwww
+--------------------------
+valid until the end of the year.
+ccccwwccwwwwwwwwwwwwwwwwwwwcwwww
+--------------------------
+file all complaints in writing.
+cccwwccwwccccccwwwwwcwwccwwwwww
+--------------------------
+tickets are very expensive.
+cccwwwwwccwwcwwwwccccwwwwww
+--------------------------
+a picture is worth many words.
+wwccwwwwwwcwwccwwwwcccwwcccwww
+--------------------------
+this camera takes nice photographs.
+ccwwwcccwwwwccccwwccwwwcccwwwwwwwww
+--------------------------
+it looks like a shack.
+cwwccccwwcwwwwwwccccww
+--------------------------
+the dog buried the bone.
+wwwwccccccccwwwwwwwcccww
+--------------------------
+the daring young man.
+wwwwccccwwwcccwwwwwww
+--------------------------
+this equation is too complicated.
+ccwwwccwwwwwwwwwwccwwcccccwwwwwww
+--------------------------
+express delivery is very fast.
+ccccccccccccwwwwwcwwcwwwwcccww
+--------------------------
+i will put on my glasses.
+cccwwwwccwwwwwcwwcccwwwww
+--------------------------
+a touchdown in the last minute.
+wwccccccwwwwcwwwwwwwwwwwcccwwww
+--------------------------
+the treasury department is broke.
+wwwwcccccwwwwcccwwwwwwwwcwwccccww
+--------------------------
+a good response to the question.
+wwcwwwwcccccwwwwwwwwwwwcwwwwwwww
+--------------------------
+well connected with people.
+ccwwwccccwwwwwwwwwwwccwwwww
+--------------------------
+the bathroom is good for reading.
+wwwwccccwwwwwcwwcwwwwcwwwccccwwww
+--------------------------
+the generation gap gets wider.
+wwwwcccwwwwwwwwcccccccwwccccww
+--------------------------
+chemical spill took forever.
+cccwwwwwwccccwwccwwwccccwwww
+--------------------------
+prepare for the exam in advance.
+ccccwwwwwwwwwwwwccccccwwcccwwwww
+--------------------------
+interesting observation was made.
+cccwwwwwwwwwcccwwwwwwwwwcwwwcwwww
+--------------------------
+bank transaction was not registered.
+cccwwccccccwwwwwwcwwwwwwwcccwwwwwwww
+--------------------------
+your etiquette needs some work.
+cwwwwccwwwwwwwwcccwwwccwwwccwww
+--------------------------
+we better investigate this.
+ccccccwwwwcccccccwwwwwccwww
+--------------------------
+stability of the nation.
+ccccwwwwwwwwwwwwwccwwwww
+--------------------------
+house with new electrical panel.
+cccwwwcwwwwcwwwccccccwwwwwccccww
+--------------------------
+our silver anniversary is coming.
+ccwwcccwwwwccccwwwwwwwwcwwccccwww
+--------------------------
+the presidential suite is very busy.
+wwwwcccccwwwwwwwwcccccccwwcwwwwcccww
+--------------------------
+the punishment should fit the crime.
+wwwwcccwwwwwwwwccwwwwwccccwwwwccccww
+--------------------------
+sharp cheese keeps the mind sharp.
+cccwwwcccccwwcccwwwwwwwccwwwcccwww
+--------------------------
+the registration period is over.
+wwwwccccwwwwwwwwwcccwwwwcwwcwwww
+--------------------------
+you have my sympathy.
+cwwwcwwwwcccccwwwwwww
+--------------------------
+the objective of the exercise.
+wwwwccccccwwwwwwwwwwwcccwwwwww
+--------------------------
+historic meeting without a result.
+cccccccwwcccwwwwwccwwwwwwwwcccwwww
+--------------------------
+very reluctant to enter.
+cwwwwccwwwwwwwwwwwccwwww
+--------------------------
+good at addition and subtraction.
+cwwwwcwwcccwwwwwwcwwwccccwwwwwwww
+--------------------------
+six daughters and seven sons.
+cccccccwwwwwwwcwwwcccwwwcccww
+--------------------------
+a thoroughly disgusting thing to say.
+wwccccwwwwwwwccccwwwwwwwcccwwwwwwcwww
+--------------------------
+sign the withdrawal slip.
+cccwwcwwwcccccwwwwwwcccww
+--------------------------
+relations are very strained.
+cccccccwwwccwwcwwwwcccccwwww
+--------------------------
+the minimum amount of time.
+wwwwccccwwwwwwwwwwwwwwccwww
+--------------------------
+a very traditional way to dress.
+wwwwwwwccccwwwwwwwwccwwwwwccccww
+--------------------------
+the aspirations of a nation.
+wwwwcccwwwwwwwwwwwwwwccwwwww
+--------------------------
+medieval times were very hard.
+cccccwwwwccwwwwccwwwcwwwwcwwww
+--------------------------
+a security force of eight thousand.
+wwccccwwwwwcccwwwwwwccwwwwccccwwwww
+--------------------------
+there are winners and losers.
+cccwwwwwwwccccwwwwcwwwccccwww
+--------------------------
+the voters turfed him out.
+wwwwcccwwwwccccwwwccwwccww
+--------------------------
+pay off a mortgage for a house.
+ccccccwwwwccccwwwwwcwwwwwcwwwww
+--------------------------
+the collapse of the roman empire.
+wwwwcccwwwwwwwwwwwwwcccwwwccccwww
+--------------------------
+did you see that spectacular explosion.
+cwwwcwwwcwwwcwwwwcccccwwwwwwwcccccwwwww
+--------------------------
+keep receipts for all your expenses.
+cwwwwccccccwwwcwwwcwwwccwwwcccccwwww
+--------------------------
+the assault took six months.
+wwwwccccwwwwccwwwccccccccwww
+--------------------------
+get your priorities in order.
+cwwwcwwwwccccwwwwwwwcwwcwwwww
+--------------------------
+traveling requires a lot of fuel.
+cccwwwwwwwcccwwwwwwwwccccwwwccwww
+--------------------------
+longer than a football field.
+cccwwwwwwwwwwwccwwwwwwwcccwww
+--------------------------
+a good joke deserves a good laugh.
+wwcwwwwcccwwccccwwwwwwwcwwwwcccwww
+--------------------------
+the union will go on strike.
+wwwwccccwwccwwwcccwwwccccwww
+--------------------------
+never mix religion and politics.
+ccwwwwcccccccwwwwwwwwwwccccwwwww
+--------------------------
+interactions between men and women.
+ccccccwwwwwwwcccwwwwwccwwwwwwwwwwww
+--------------------------
+where did you get such a silly idea.
+cccwwwccwwcwwwccwwccwwwwwcccwwwccwww
+--------------------------
+it should be sunny tomorrow.
+cwwccwwwwwwwwcccwwwcccwwwwww
+--------------------------
+a psychiatrist will help you.
+wwccccccwwwwwwwccwwwcwwwwcwww
+--------------------------
+you should visit to a doctor.
+cwwwccwwwwwcccwwwcwwwwcccwwww
+--------------------------
+you must make an appointment.
+cwwwcwwwwcccwwcwwccccwwwwwwww
+--------------------------
+the fax machine is broken.
+wwwwcccccccwwwwwcwwcccwwww
+--------------------------
+players must know all the rules.
+ccccwwwwcwwwwcwwwwccwwwwwwcccwww
+--------------------------
+a dog is the best friend of a man.
+wwccwwcwwwwwwccwwwcccwwwwcwwwwccww
+--------------------------
+would you like to come to my house.
+cwwwwwcwwwwwwwwcwwcwwwwcwwccccccwww
+--------------------------
+february has an extra day.
+cccwwwwwwccwwcwwccccccccww
+--------------------------
+do not feel too bad about it.
+cwwwwwwcccwwccwwccccccwwwwwww
+--------------------------
+this library has many books.
+ccwwwccwwwwwwccwwcccwwcwwwww
+--------------------------
+construction makes traveling difficult.
+ccccccwwwwwwwcccwwwcccwwwwwwwcccwwwwwww
+--------------------------
+he called seven times.
+cwwcwwwwwwcccwwwccwwww
+--------------------------
+that is a very odd question.
+cwwwwwwwwwcwwwwccwwcwwwwwwww
+--------------------------
+a feeling of complete exasperation.
+wwccccwwwwwwwcccccwwwwccccwwwwwwwww
+--------------------------
+we must redouble our efforts.
+ccccwwwwccccwwwwwccwwccwwwwww
+--------------------------
+no kissing in the library.
+cwwcccwwwwwcwwwwwwccwwwwww
+--------------------------
+that agreement is rife with problems.
+cwwwwcccwwwwwwwcwwcccwwcwwwwccccwwwww
+--------------------------
+vote according to your conscience.
+ccwwwccwwwwwwwwwwwcwwwwcccccwwwwww
+--------------------------
+my favourite sport is racketball.
+cwwcccwwwwwwwcccwwwcwwccccwwwwwww
+--------------------------
+sad to hear that news.
+cccccwwcccwwcwwwwcccww
+--------------------------
+the gun discharged by accident.
+wwwwccwwcccccwwwwwwcwwccccwwwww
+--------------------------
+one of the poorest nations.
+ccwwwwwwwwwcccwwwwwccccwwww
+--------------------------
+the algorithm is too complicated.
+wwwwcccwwwwwwwcwwccwwcccccwwwwwww
+--------------------------
+your presentation was inspiring.
+cwwwwccccccccwwwwwcwwwccccwwwwww
+--------------------------
+that land is owned by the government.
+cwwwwcccwwcwwccwwwwcwwwwwwccwwwwwwwww
+--------------------------
+burglars never leave their business card.
+ccccwwwwwccwwwwcccwwwcccwwwcwwwwwwwwccccc
+--------------------------
+the fire blazed all weekend.
+wwwwccwwwccccwwwccwwcccwwwww
+--------------------------
+if diplomacy does not work.
+ccccccwwwwwwwccwwwwwwwcwwww
+--------------------------
+please keep this confidential.
+ccwwwwwcwwwwcccwwccccccwwwwwww
+--------------------------
+the rationale behind the decision.
+wwwwcccccwwwwwcccwwwwwwwwccccwwwww
+--------------------------
+the cat has a pleasant temperament.
+wwwwcwwwccwwwwccccccwwwcccccccwwwww
+--------------------------
+our housekeeper does a thorough job.
+ccwwccccccwwwwwwccwwwcccccwwwwwwccww
+--------------------------
+her majesty visited our country.
+ccwwcccwwwwwccwwwwwwccwwccccwwww
+--------------------------
+handicapped persons need consideration.
+cccwwwwwwwwwccccwwwwccwwwccccccwwwwwwww
+--------------------------
+these barracks are big enough.
+ccccwwcccccwwwwccwwccwwccwwwww
+--------------------------
+sing the gospel and the blues.
+ccccccwwwcccwwwwcwwwwwwwcccwww
+--------------------------
+he underwent triple bypass surgery.
+cwwccccccwwwwccccwwwccwwwwwccccwwww
+--------------------------
+the ropes of a new organization.
+wwwwcccwwwcwwwwcwwwccwwwwwwwwwww
+--------------------------
+peering through a small hole.
+cccwwwwwcccwwwwwwwcwwwwwcccww
+--------------------------
+rapidly running short on words.
+cccwwwwwccwwwwwwcccwwwcwwcccwww
+--------------------------
+it is difficult to concentrate.
+cwwwwwcwwwwwwwwwwwwccccccwwwwww
+--------------------------
+give me one spoonful of coffee.
+ccwwwcccccwwccccwwwwwwwwcwwwwww
+--------------------------
+two or three cups of coffee.
+ccwwcwwcccwwwcccwwwwwcwwwwww
+--------------------------
+just like it says on the can good.
+cwwwwcwwwwcwwcccwwcwwwwwwcccccwwww
+--------------------------
+companies announce a merger.
+cccccwwwwwcccwwwwwwccccccwww
+--------------------------
+electric cars need big fuel cells.
+ccwwwwwwwcccccccwwwccwwcccwwwwwwww
+--------------------------
+the plug does not fit the socket.
+wwwwcccwwccwwwwwwwccccwwwwccccwww
+--------------------------
+drugs should be avoided.
+cccwwwccwwwwwwwwcccwwwww
+--------------------------
+the most beautiful sunset.
+wwwwcwwwwcccwwwwwwwcccwwww
+--------------------------
+we dine out on the weekends.
+ccccccccccwwcwwwwwwcccccwwww
+--------------------------
+get aboard the ship is leaving.
+cwwwccccwwwwwwwcccwwcwwccccwwww
+--------------------------
+the water was monitored daily.
+wwwwcccwwwccwwccccwwwwwwcccwww
+--------------------------
+he watched in astonishment.
+cwwccwwwwwwcwwccccwwwwwwwww
+--------------------------
+a big scratch on the tabletop.
+wwccwwcccwwwwwcwwwwwwcccccwwww
+--------------------------
+salesmen must make their monthly quota.
+cccwwwwwwcwwwwcccwwcwwwwwccccwwwwcccccc
+--------------------------
+saving that child was an heroic effort.
+cccwwwwcwwwwcccwwwcwwwcwwccccwwwccwwwww
+--------------------------
+granite is the hardest of all rocks.
+cccccwwwcwwwwwwccccwwwwcwwcwwwcccccc
+--------------------------
+bring the offenders to justice.
+ccwwwwwwwwccccccwwwwcwwcccwwwww
+--------------------------
+every saturday he folds the laundry.
+ccwwwwcccwwwwwwcwwccccwwwwwwccccwwww
+--------------------------
+careless driving results in a fine.
+cccccwwwwccccwwwwccccwwwwcwwwwccwww
+--------------------------
+microscopes make small things look big.
+ccccwwwwwwwwcccwwccwwwwcccwwwwcwwwwccww
+--------------------------
+a coupon for a free sample.
+wwccccwwwcwwwwwccccccccwwww
+--------------------------
+fine but only in moderation.
+cccwwcwwwccwwwwwwccccccwwwww
+--------------------------
+a subject one can really enjoy.
+wwccccwwwwccwwwwwwcccwwwwcccwww
+--------------------------
+important for political parties.
+ccwwwwwwwwcwwwccwwwwwwwwccccccww
+--------------------------
+that sticker needs to be validated.
+cwwwwccccwwwwcccwwwwwwwwwccccwwwwww
+--------------------------
+the fire raged for an entire month.
+wwwwccwwwcccwwwcwwwcwwccwwwwwcccwww
+--------------------------
+one never takes too many precautions.
+ccwwccwwwwccccwwccwwcwwwwcccccwwwwwww
+--------------------------
+we have enough witnesses.
+cccwwwwwcccwwwwccccwwwwww
+--------------------------
+labour unions know how to organize.
+cccwwwwccccwwwcwwwwcwwwwwwccccccccc
+--------------------------
+people blow their horn a lot.
+cwwwwwwcccwwcccwwwcccwwcccccc
+--------------------------
+a correction had to be published.
+wwccccccwwwwwcwwwwwwwwwcccwwwwwww
+--------------------------
+i like baroque and classical music.
+cccwwwwccccwwwwcwwwccccwwwwwwccwwww
+--------------------------
+the proprietor was unavailable.
+wwwwcccccwwwwwwcwwwcccwwwwwwwww
+--------------------------
+be discreet about your meeting.
+cwwcccccccwwccwwwwcwwwwcccwwwww
+--------------------------
+meet tomorrow in the lavatory.
+cccwwcccwwwwwwwwwwwwwcccwwwwww
+--------------------------
+suburbs are sprawling up everywhere.
+ccccwwwwccwwcccwwwwwwwcwwccccccwwwww
+--------------------------
+shivering is one way to keep warm.
+cccwwwwwwwcwwcwwwccwwwwwcwwwwcccww
+--------------------------
+dolphins leap high out of the water.
+cccwwwwwwcccccccwwwccwwwwwwwwwccwwww
+--------------------------
+try to enjoy your maternity leave.
+ccccwwwcccwwwcwwwwccccccwwwwcccwww
+--------------------------
+the ventilation system is broken.
+wwwwcccwwwwwwwwwccwwwwwcwwcccwwww
+--------------------------
+dinosaurs have been extinct for ages.
+cccwwwwwwwcwwwwwwwwwccwwwwwwcwwwccccc
+--------------------------
+an inefficient way to heat a house.
+ccccccwwwwwwwwwccwwwwwccccccccwwwww
+--------------------------
+the bus was very crowded.
+wwwwcccccwwwcwwwwcccwwwww
+--------------------------
+an injustice is committed every day.
+ccccccwwwwwwwwwwccccccwwwwccwwwwcwww
+--------------------------
+the coronation was very exciting.
+wwwwccccwwwwwwwcwwwcwwwwccccwwwww
+--------------------------
+look in the syllabus for the course.
+ccwwwcwwwwwwcccwwwwwwcwwwwwwwcccwwww
+--------------------------
+rectangular objects have four sides.
+ccccwwwwwwwwccwwwwwwcwwwwcccwwcccwww
+--------------------------
+prescription drugs require a note.
+cccccwwwwwwwwcccwwwcccwwwwwccccwww
+--------------------------
+the insulation is not working.
+wwwwcccccwwwwwwcwwwwwwccccwwww
+--------------------------
+nothing finer than discovering a treasure.
+ccwwwwwwccccwwcccwwcccccwwwwwwwcccccccwwww
+--------------------------
+our life expectancy has increased.
+ccwwcwwwwcccccccwwwwccwwccccwwwwww
+--------------------------
+the cream rises to the top.
+wwwwcccccccccwwwcwwwwwwccww
+--------------------------
+the high waves will swamp us.
+wwwwccccccccwwwccwwwccwwwwcww
+--------------------------
+the treasurer must balance her books.
+wwwwcccccwwwwwcwwwwcccwwwwwccwwcccwww
+--------------------------
+completely sold out of that.
+cccwwwwwwwwcccccccwwwwwcccww
+--------------------------
+the location of the crime.
+wwwwcccwwwwwwwwwwwwwccccww
+--------------------------
+the chancellor was very boring.
+wwwwcccccwwwwwwcwwwcwwwwcccwwww
+--------------------------
+the accident scene is a shrine for fans.
+wwwwccwwwwwwwcccwwwcwwwwccccccccwwwcccww
+--------------------------
+a tumor is ok provided it is benign.
+wwcccwwwcwwcccccccwwwwwwwwwwwccccwww
+--------------------------
+please take a bath this month.
+ccwwwwwcwwwwwwcccccccwwwccwwww
+--------------------------
+rent is paid at the beginning of the month.
+cccwwcwwccccccwwwwwwccwwwwwwwwwwwwwwwccwwww
+--------------------------
+for murder you get a long prison sentence.
+cwwwcccwwwwcwwwccwwcccwwwwccccwwwcccwwwwww
+--------------------------
+a much higher risk of getting cancer.
+wwccwwwcccwwwwcccwwwwwccwwwwwwccccwww
+--------------------------
+quit while you are ahead.
+ccccccccwwwcwwwcwwwccwwww
+--------------------------
+knee bone is connected to the thigh bone.
+cccwwcccwwcwwccccwwwwwwcwwwwwwccccwwwwwww
+--------------------------
+safe to walk the streets in the evening.
+cccwwcwwcccwwwwwwcccccwwwcwwwwwwccccwwww
+--------------------------
+luckily my wallet was found.
+ccwwwwwwcwwccccwwwcwwwccwwww
+--------------------------
+one hour is allotted for questions.
+ccwwcccwwcwwcccccwwwwcwwwcccwwwwwww
+--------------------------
+so you think you deserve a raise.
+cwwcwwwccwwwwwwwwccccwwwwccccccww
+--------------------------
+they watched the entire movie.
+cccwwcccwwwwwwwwwccwwwwwccccww
+--------------------------
+good jobs for those with education.
+cwwwwcccwwwwwwcccwwwccwwwccwwwwwwww
+--------------------------
+jumping right out of the water.
+cccwwwwwcwwwwwccwwwwwwwwwccwwww
+--------------------------
+the trains are always late.
+wwwwcccccwwccwwcccwwwwcccww
+--------------------------
+sit at the front of the bus.
+cccccccwwwwcccwwwwwwwwwwcccc
+--------------------------
+do you prefer a window seat.
+cwwcwwwccccwwwwwcccwwwwcccww
+--------------------------
+the food at this restaurant.
+wwwwcccwwccccwwwwccccwwwwwww
+--------------------------
+canada has ten provinces.
+ccccwwwccwwccccccccccwwww
+--------------------------
+the elevator door appears to be stuck.
+wwwwccccwwwwwcccwwccccwwwwwwwwwwccccww
+--------------------------
+raindrops keep falling on my head.
+ccccwwwwwwcwwwwcccwwwwwcwwcwwcwwww
+--------------------------
+spill coffee on the carpet.
+ccccwwcccwwwwcwwwwwwccccwww
+--------------------------
+an excellent way to communicate.
+ccccccwwwwwwwccwwwwwccwwwwwwwwww
+--------------------------
+with each step forward.
+cwwwwcwwwwccwwwccccwwww
+--------------------------
+faster than a speeding bullet.
+cccwwwwwwwwwwwccccwwwwwccccwww
+--------------------------
+wishful thinking is fine.
+cccwwwwwwwwwwwwwwcwwcccww
+--------------------------
+nothing wrong with his style.
+ccwwwwwwcwwwwwwwwwwcwwwcccwww
+--------------------------
+arguing with the boss is futile.
+cccccwwwcwwwwwwwwcccwwcwwcccwwww
+--------------------------
+taking the train is usually faster.
+cccwwwwwwwwccccwwcwwcwwwwwwwcccwwww
+--------------------------
+what goes up must come down.
+ccwwwcccwwcwwccwwwcwwwwcwwww
+--------------------------
+be persistent to win a strike.
+cwwcccccwwwwwwcwwcwwwwwccccwww
+--------------------------
+presidents drive expensive cars.
+cccccwwwwwwccwwwwccccwwwwwwccccc
+--------------------------
+the stock exchange dipped.
+wwwwcccwwwcccwwwwwwcccwwww
+--------------------------
+why do you ask silly questions.
+cccccwwcwwwccwwcccwwwcccwwwwwww
+--------------------------
+that is a very nasty cut.
+cwwwwwwwwwcwwwwcccwwwccww
+--------------------------
+what to do when the oil runs dry.
+ccwwwcwwwwwccwwwwwwwccwwcccwwccww
+--------------------------
+learn to walk before you run.
+cccwwwwwwcccwwccwwwwwcwwwccww
+--------------------------
+insurance is important for bad drivers.
+ccccwwwwwwcwwccwwwwwwwwcwwwccwwcccccwww
+--------------------------
+traveling to conferences is fun.
+cccwwwwwwwcwwcccccwwwwwwwcwwcccc
+--------------------------
+do you get nervous when you speak.
+cwwcwwwccwwcccwwwwwccwwwcwwwcccwww
+--------------------------
+pumping helps if the roads are slippery.
+cccwwwwwccccwwcccwwwwcccwwwccwwccccwwwww
+--------------------------
+parking tickets can be challenged.
+ccccwwwwcccwwwwwcwwwwwwccccwwwwwww
+--------------------------
+apartments are too expensive.
+cccwwwwwwwwccwwccwwccccwwwwww
+--------------------------
+find a nearby parking spot.
+ccwwwwwcccwwwwccccwwwwcccww
+--------------------------
+gun powder must be handled with care.
+ccwwccccwwwcwwwwwwwccwwwwwwcwwwwcwwww
+--------------------------
+just what the doctor ordered.
+cwwwwcwwwwcwwwcccwwwwccwwwwww
+--------------------------
+a rattle snake is very poisonous.
+wwccccwwwccccwwcwwcwwwwccccwwwwww
+--------------------------
+weeping willows are found near water.
+ccccwwwwcccccwwwccwwcccwwwcccwwcccwww
+--------------------------
+i cannot believe i ate the whole thing.
+cccwwwwwwcccwwwwwccccccwwwwcwwwwwwwwwww
+--------------------------
+the biggest hamburger i have ever seen.
+wwwwcccwwwwwccccwwwwwwccwwwwwccccccccww
+--------------------------
+gamblers eventually loose their shirts.
+cccwwwwwwccccwwwwwwwccccwwcccwwwccccwww
+--------------------------
+exercise is good for the mind.
+cccwwwwwwcwwcwwwwcwwwwwwwccwww
+--------------------------
+irregular verbs are the hardest to learn.
+ccwwwwwwwwccccwwccwwwwwwccccwwwwcwwccwwww
+--------------------------
+they might find your comment offensive.
+cccwwccwwwwcwwwwcwwwwcccccwwwcccccwwwww
+--------------------------
+tell a lie and your nose will grow.
+ccwwwcccccccwwwcwwwwcwwwwccwwwccwww
+--------------------------
+an enlarged nose suggests you are a liar.
+ccccccwwwwwwcccwwcccwwwwwwcwwwwwwwcccccww
+--------------------------
+lie detector tests never work.
+cccccccccwwwwcccwwwccwwwwccwww
+--------------------------
+do not lie in court or else.
+cwwwwwwcccccwwcccwwwcwwcwwww
+--------------------------
+most judges are very honest.
+ccwwwcccwwwwccwwcwwwwcccwwww
+--------------------------
+only an idiot would lie in court.
+ccwwwccccccwwwcwwwwwcccccwwcccwww
+--------------------------
+important news always seems to be late.
+ccwwwwwwwwcccwwcccwwwwcccwwwwwwwwwccwww
+--------------------------
+please try to be home before midnight.
+ccwwwwwccccwwwcwwccwwwccwwwwwcccwwwwww
+--------------------------
+if you come home late the doors are locked.
+cccwwwwcccwwccwwwcccwwcwwwccwwwwccwwcccwwww
+--------------------------
+dormitory doors are locked at midnight.
+cccwwwwwwwcccwwwccwwcccwwwwcwwcccwwwwww
+--------------------------
+staying up all night is a bad idea.
+ccccwwwwcwwccwwccwwwwcwwwwccccccwww
+--------------------------
+you are a capitalist pig.
+cwwwwwwwccccccwwwwwwwcccc
+--------------------------
+motivational seminars make me sick.
+ccccwwwwwwwwwcccwwwwwwcccwwcwwcccww
+--------------------------
+questioning the wisdom of the courts.
+ccccwwwwwwwwcwwwccccwwwwwwwwwwcccccww
+--------------------------
+rejection letters are discouraging.
+ccccwwwwwwcccwwwwwccwwccccccwwwwwww
+--------------------------
+the first time he tried to swim.
+wwwwcwwwwwwwwwwcwwcccwwwwwwccwww
+--------------------------
+that referendum asked a silly question.
+cwwwwccccccwwwwwccwwwwwwcccwwwcwwwwwwww
+--------------------------
+a steep learning curve in riding a unicycle.
+wwccccccccccwwwwwcccwwwcwwcccwwwwwwccccwwwww
+--------------------------
+a good stimulus deserves a good response.
+wwcwwwwccccwwwwwccccwwwwwwwcwwwwcccccwwww
+--------------------------
+everybody looses in custody battles.
+cccccwwwwwccccwwwcwwccwwwwwwcccwwwww
+--------------------------
+put garbage in an abandoned mine.
+cwwwcccwwwwwcwwcwwcccwwwwwwwccccc
+--------------------------
+employee recruitment takes a lot of effort.
+cccwwwwwwccccwwwwwwwwccccwwccccccwwwccwwwww
+--------------------------
+experience is hard to come by.
+ccwwwwwwwwwcwwcccwwwwwcwwwwccc
+--------------------------
+everyone wants to win the lottery.
+ccccwwwwwcccwwwwwwcwwwwwwwcccwwwww
+--------------------------
+the picket line gives me the chills.
+wwwwcccccwwcccwwcccwwwcccwwwwcccccww
+--------------------------
+
+
+Total de frases analisadas: 500
+
+
+============================
+Acceleration Rate
+KSR = (kn - ki) / kn * 100
+where: 
+       ki = actual keystrokes
+       ks = keystrokes required to select suggestion
+       kn = keystrokes required with no prediction enabled
+
+ki : 5815
+ks : 2489
+kn : 14310
+
+KSR: 59.3641

@@ -1,0 +1,65 @@
+Simulador
+===> meu
+   > 
+de
+a
+e
+===> meu
+   > m
+mais
+mas
+muito
+===> meu
+   > me
+mesmo
+menos
+melhor
+===> meu
+   > meu
+meus
+===> relogio
+   > 
+marido
+coracao
+caro
+===> relogio
+   > r
+rio
+real
+relacao
+===> relogio
+   > re
+real
+relacao
+regiao
+===> relogio
+   > rel
+relacao
+relatorio
+relacoes
+===> relogio
+   > relo
+relogios
+relogio
+===> 
+   > 
+jovem
+lento
+de
+Computing acceleration rate!!!
+
+AH MAEEEEEE ============================
+Keystroke Savings Rate (KSR)
+           ki + ks        
+KSR = (1 - ------- ) * 100
+             kn           
+where: 
+       ki = actual keystrokes
+       ks = keystrokes required to select suggestion
+       kn = keystrokes required with no prediction enabled
+
+ki : 10
+ks : 1
+kn : 13
+
+KSR: 23.0769

@@ -1,0 +1,14 @@
+Feb 25 2015 15:17:28.905	start, not win 
+Feb 25 2015 15:17:28.905	AlphabetID = Português / Portuguese (Brazilian)
+Feb 25 2015 15:17:28.905	ColourID = Default
+Feb 25 2015 15:17:28.905	ControlMode = 0
+Feb 25 2015 15:17:28.905	UniformTimes1000 = 50
+Feb 25 2015 15:17:28.905	YScaling = 10
+Feb 25 2015 15:17:28.905	LanguageModelID = 0
+Feb 25 2015 15:17:28.905	LMMaxOrder = 5
+Feb 25 2015 15:17:28.905	LMExclusion = 0
+Feb 25 2015 15:17:28.905	LMUpdateExclusion = 1
+Feb 25 2015 15:17:28.905	LMAlpha = 49
+Feb 25 2015 15:17:28.905	LMBeta = 77
+Feb 25 2015 15:17:28.905	LMMixture = 50
+Feb 25 2015 15:17:28.905	WordAlpha = 50

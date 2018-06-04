@@ -1,0 +1,49 @@
+{
+    "configuration":
+    {
+        "mouse_noise": 0,
+        "noise_radius": 0.7,
+        "distance_from_screen": 700,
+        "screen_diameter": 17.5,
+        "alpha": 1.0,
+        "screen_width": 1920,
+        "screen_height": 1080,
+        "show_log": 1,
+        "waitTimeContinue": 2,
+        "max_session_time": 480,
+        "min_phrases": 0.5,
+        "sounds_path": "/assets/sounds/",
+        "show_prefix": 1,
+        "prefix_len": 3,
+        "prefix_distance": 15,
+        "show_posfix": 1,
+        "max_posfix_N": 3,
+        "posfix_len": 20,
+        "posfix_distance": 11,
+        "posfix_vert_step": 5,
+        "word_prediction": 1,
+        "number_words": 3,
+        "word_width": 168,
+        "word_height": 128,
+
+        "language_pt":{
+            "welcome_phrase": "Pressione <espaco> para comecar.",
+            "end_phrase": "Fim do experimento. Pressione <ESC> para sair.",
+            "phrases_file": "/assets/languages/frasesPT.txt",
+            "presage_db": "/assets/languages/portuguese/presage_portuguese.xml"
+        },
+        "language_en":{
+            "welcome_phrase": "Press <space> to start.",
+            "end_phrase": "Press <ESC> to exit.",
+            "phrases_file": "/assets/languages/frasesEN.txt",
+            "presage_db": "/assets/languages/english/presage_english.xml"
+        },
+        "language_es":{
+            "welcome_phrase": "Presione <espacio> para comenzar.",
+            "end_phrase": "El experimento terminó. Presione <ESC> para salir.",
+            "phrases_file": "/assets/languages/frasesES.txt",
+            "presage_db": "/assets/languages/spanish/presage_spanish.xml"
+        }
+    }
+
+}
