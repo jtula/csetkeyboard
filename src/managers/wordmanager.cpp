@@ -36,7 +36,8 @@ WordManager::WordManager(QObject *parent, QJsonObject conf, QString path) :
     presageLastPredictedPosfix[0] = '\0';
     presageLastTypedPosfix[0] = '\0';
     // Begin with the predefined words
-    phraseBegin();    
+    phraseBegin();
+    qInfo()<<"XCC";
 }
 
 template <class T>

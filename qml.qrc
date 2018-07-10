@@ -9,7 +9,6 @@
         <file>qml/qmldir</file>
         <file>qml/keyboard.qml</file>
         <file>qml/FpsDisplay.qml</file>
-        <file>todo.md</file>
         <file>qml/Engine.qml</file>
         <file>qml/StateMachine.qml</file>
         <file>qml/KeyboardManager.qml</file>
